@@ -1,10 +1,10 @@
 # flappy-monsters
 BSCybersecurity Applications of ict, 1st semester project
 
-# group members:
+# Group Members:
 Bushra Tariq, Manal Yasir, Hamna Sanan, Laiba.
 
-# introduction:
+# Introduction:
 This project is a simplified version of the popular flappy bird game, implemented using pygame library in python. The game allows the player to select a bird monster character, navigate through randomly generated pipes, and track scores with a high score system. The code demonstrates fundamental concepts of game  development such as event handling, collision detection, sprite rendering, and  game loops.
 
 # Main Essence of the Code:
