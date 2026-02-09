@@ -1,7 +1,7 @@
 # flappy-monsters
 BSCybersecurity Applications of ict, 1st semester project
 
-# GROUP MEMBERS:
+# group members:
 Bushra Tariq, Manal Yasir, Hamna Sanan, Laiba.
 
 # introduction:
